@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.logo1{
+position: absolute;
+width: 80px;
+height: 50px;
+left: 0px;
+top: 0px;
+background: #29B712;
+}
+
+.logo2{
+position: absolute;
+width: 43px;
+height: 704px;
+left: 17px;
+top: 100px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 880%;
+/* or 88px */
+
+text-align: center;
+
+color: rgba(0, 0, 0, 0.3);
+}
+
+.logo3{
+
+position: absolute;
+width: 23px;
+height: 18px;
+left: 27px;
+top: 70px;
+}
+
+.logo4{
+    
+position: absolute;
+width: 18px;
+height: 18px;
+left: 30px;
+top: 185px;
+
+}
+
+.logo5{
+    position: absolute;
+width: 24px;
+height: 24px;
+left: 24px;
+top: 285px;
+
+}
+
+.logo6{
+    position: absolute;
+width: 28px;
+height: 28px;
+left: 22px;
+top: 400px;
+}
+
+.logo7{
+position: absolute;
+width: 23px;
+height: 23px;
+left: 25px;
+top: 530px;
+
+}
+
+.logo8{
+    position: absolute;
+width: 24px;
+height: 24px;
+left: 26px;
+top: 615px;
+
+}
+
+.logo9{
+    position: absolute;
+width: 24px;
+height: 24px;
+left: 26px;
+top: 750px;
+
+  
+}
+
+.line{
+    
+position: absolute;
+width: 1010px;
+height: 0px;
+left: 114px;
+top: 60px;
+
+border: 1px solid #F1F1F1;
+
+}
+
+
+.line1{
+
+    position: absolute;
+width: 1010px;
+height: 0px;
+left: 114px;
+top: 185px;
+
+border: 1px solid #F1F1F1;
+
+}
+
+
+.nav{
+    
+box-sizing: border-box;
+position: absolute;
+width: 80px;
+height: 721px;
+
+
+background: #FFFFFF;
+border: 1px solid #ECECEC;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

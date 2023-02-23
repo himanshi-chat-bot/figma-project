@@ -1,0 +1,121 @@
+.header{
+    position: absolute;
+width: 286px;
+height: 25px;
+left: 120px;
+top: 18px;
+
+font-family:Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 140%;
+
+color: rgba(36, 40, 49, 0.3);
+
+}
+
+.gender{
+    position: absolute;
+width: 42px;
+height: 17px;
+left: 758px;
+top: 25px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 140%;
+/* identical to box height, or 17px */
+
+text-align: center;
+
+color: #6B6B6B;
+
+}
+.female
+{
+    position: absolute;
+width: 41px;
+height: 17px;
+left: 812px;
+top: 25px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 140%;
+/* identical to box height, or 17px */
+
+
+color: #242831;
+
+}
+
+
+.logo10{
+    position: absolute;
+width: 10.5px;
+height: 6px;
+left: 866px;
+top: 28px;
+
+}
+
+
+.member{
+    position: absolute;
+width: 86px;
+height: 17px;
+left: 909px;
+top: 25px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 140%;
+/* identical to box height, or 17px */
+
+
+color: #6B6B6B;
+}
+
+.active{
+    
+position: absolute;
+width: 85px;
+height: 17px;
+left: 1007px;
+top: 25px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 140%;
+color: #242831;
+
+}
+
+.logo11{
+    
+position: absolute;
+width: 10.5px;
+height: 6px;
+left: 1100px;
+top: 29px;
+
+}
+
+
+
+
+
+
+
+
+
+

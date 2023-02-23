@@ -1,0 +1,390 @@
+
+
+.head5{
+    position: absolute;
+width: 121px;
+height: 25px;
+left: 124px;
+top: 720px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+
+color: #242831;
+
+}
+
+.email5{
+    position: absolute;
+width: 160px;
+height: 20px;
+left: 240px;
+top: 730px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 140%;
+/* identical to box height, or 17px */
+
+
+color: #6B6B6B;
+
+}
+
+.gen5{
+    position: absolute;
+width: 42px;
+height: 17px;
+left: 125px;
+top: 760px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 140%;
+/* identical to box height, or 17px */
+
+text-align: center;
+
+color: #6B6B6B;
+
+}
+
+.fe5{
+
+    position: absolute;
+    width: 48px;
+    height: 20px;
+    left: 125px;
+    top: 780px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    /* identical to box height, or 20px */
+    
+    
+    color: #2428;
+}
+
+
+
+.birth5{
+    position: absolute;
+width: 48px;
+height: 17px;
+left: 209px;
+top: 760px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 140%;
+/* identical to box height, or 17px */
+
+
+color: #6B6B6B;
+
+}
+
+
+.date5{
+
+    position: absolute;
+    width: 97px;
+    height: 20px;
+    left: 209px;
+    top: 780px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    /* identical to box height, or 20px */
+    
+    
+    color: #242831;
+
+
+}
+
+
+.phone5{
+
+position: absolute;
+width: 86px;
+height: 17px;
+left: 346px;
+top: 760px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 140%;
+/* identical to box height, or 17px */
+
+
+color: #6B6B6B;
+
+}
+
+.no5{
+    
+position: absolute;
+width: 101px;
+height: 20px;
+left: 346px;
+top: 780px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 140%;
+/* identical to box height, or 20px */
+
+
+color: #242831;
+
+}
+
+.status5{
+
+    position: absolute;
+    width: 86px;
+    height: 17px;
+    left: 489px;
+    top: 760px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 140%;
+    /* identical to box height, or 17px */
+    
+    
+    color: #6B6B6B;
+    
+    
+
+}
+
+.statusa5{
+    position: absolute;
+width: 99px;
+height: 20px;
+left: 489px;
+top: 780px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 140%;
+/* identical to box height, or 20px */
+
+
+color: #242831;
+}
+
+.five5{
+    position: absolute;
+width: 23px;
+height: 24px;
+left: 869px;
+top: 740px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 140%;
+/* identical to box height, or 28px */
+
+
+color: #242831;
+
+}
+
+.two5{
+
+    position: absolute;
+    width: 23px;
+    height: 28px;
+    left: 950px;
+    top: 740px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 140%;
+    /* identical to box height, or 28px */
+    
+    
+    color: #242831;
+
+}
+
+.past5{
+
+    position: absolute;
+    width: 24px;
+    height: 17px;
+    left: 868px;
+    top: 770px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 140%;
+    /* identical to box height, or 17px */
+    
+    text-align: center;
+    
+    color: #6B6B6B;
+
+
+}
+
+.up5{
+    position: absolute;
+width: 58px;
+height: 17px;
+left: 949px;
+top: 770px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 140%;
+/* identical to box height, or 17px */
+
+text-align: center;
+
+color: #6B6B6B;
+
+}
+
+.view5{
+    position: absolute;
+width: 77px;
+height: 66px;
+left: 1046px;
+top: 740px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 180%;
+/* or 22px */
+
+
+color: #29B712;
+
+}
+.logo62{
+    position: absolute;
+width: 0px;
+height: 34px;
+left: 199px;
+top: 765px;
+
+opacity: 0.5;
+border: 1px solid #6B6B6B;
+
+
+}
+
+
+.logo63{
+    position: absolute;
+width: 0px;
+height: 34px;
+left: 326px;
+top: 765px;
+
+opacity: 0.5;
+border: 1px solid #6B6B6B;
+    
+}
+.logo64{
+    position: absolute;
+width: 0px;
+height: 34px;
+left: 471px;
+top: 765px;
+
+opacity: 0.5;
+border: 1px solid #6B6B6B;
+
+    
+}
+.logo65{
+    
+    position: absolute;
+width: 0px;
+height: 38px;
+left: 924px;
+top: 755px;
+
+opacity: 0.5;
+border: 1px solid #6B6B6B;
+}
+
+
+.line6{
+
+position: absolute;
+width: 1010px;
+height: 0px;
+left: 114px;
+top: 820px;
+
+border: 1px solid #F1F1F1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
